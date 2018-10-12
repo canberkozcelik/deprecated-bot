@@ -1,0 +1,22 @@
+{
+  "name": "deprecatedbot",
+  "version": "1.0.0",
+  "description": "trying out a twitter bot",
+  "main": "apps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/canberkozcelik/deprecated-bot.git"
+  },
+  "author": "canberkozcelik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canberkozcelik/deprecated-bot/issues"
+  },
+  "homepage": "https://github.com/canberkozcelik/deprecated-bot/blob/master/README.md",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
